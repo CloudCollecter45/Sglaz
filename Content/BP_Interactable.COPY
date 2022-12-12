@@ -1,0 +1,31 @@
+Begin Object Class=/Script/Engine.Blueprint Name="BP_Interactable"
+   Begin Object Class=/Script/Engine.EdGraph Name="ActFunction"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_FunctionEntry Name="K2Node_FunctionEntry_0"
+      End Object
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Name="ActFunction"
+      Begin Object Name="K2Node_FunctionEntry_0"
+         ExtraFlags=201457664
+         FunctionReference=(MemberName="ActFunction")
+         bIsEditable=True
+         NodeGuid=4B7401C24B5B7C62BCA8D49A1D6B996E
+         CustomProperties Pin (PinId=0BF776B944FBAB56A37085AAE9075191,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PinType.bIsUObjectWrapper=True,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema=Class'"/Script/BlueprintGraph.EdGraphSchema_K2"'
+      Nodes(0)=K2Node_FunctionEntry'"K2Node_FunctionEntry_0"'
+      GraphGuid=5822BA1B4D22BBDB0D44B9B78501D47A
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0"
+   End Object
+   ParentClass=Class'"/Script/CoreUObject.Interface"'
+   BlueprintType=BPTYPE_Interface
+   BlueprintSystemVersion=2
+   FunctionGraphs(0)=EdGraph'"ActFunction"'
+   CategorySorting(0)=""
+   ThumbnailInfo=SceneThumbnailInfo'"SceneThumbnailInfo_0"'
+   GeneratedClass=BlueprintGeneratedClass'"BP_Interactable_C"'
+   bLegacyNeedToPurgeSkelRefs=False
+   BlueprintGuid=DCFDA64A415EAB8E0CED2FA7C3157E70
+End Object
